@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Case Study: Naval Combat System Management</title>
+    <link rel="stylesheet" href="master.css"> 
+</head>
+<body>
+
+    <header id="navbar">
+        <nav>
+            <a href="index.html">← Back to Home</a>
+            <a href="index.html#research-projects">Projects</a>
+            <a href="index.html#about-me">About Me</a>
+            <a href="index.html#contact">Contact</a>
+        </nav>
+    </header>
+
+    <section class="case-study-detail">
+        <h1>Mission Reliability and Complex Combat System Management</h1>
+        <p class="subtitle">Naval Service: Fire Controlman First Class (E-6) | U.S. Navy (2013-2019)</p>
+        
+        <h2 id="challenge">I. The Challenge: Operational Readiness & System Reliability</h2>
+        <p>As a Fire Controlman First Class (FC1) and technical expert, my primary mission was to maintain continuous operational readiness for vital shipboard assets across two major platforms (CG-55 and LPD-15). The challenge was maximizing system uptime and combat effectiveness in high-tempo, multi-threat environments, where system failure is not an option.</p>
+        <ul>
+            <li><strong>Objective:</strong> Ensure 100% reliability for all assigned weapons and radar systems (MK-15 CIWS, SPQ-9B RADAR, small arms, torpedo systems).</li>
+            <li><strong>Context:</strong> Managed systems valued in the millions of dollars under demanding, high-risk operational constraints (2013-2019).</li>
+        </ul>
+
+        <h2 id="expertise">II. Expertise in Complex Systems & Diagnostics</h2>
+        <p>My experience centers on technical mastery and advanced troubleshooting of sophisticated combat systems:</p>
+        
+        <ul>
+            <li><strong>Automated Close-In Weapon System (CIWS) Management (MK-15):</strong> Expertly maintained and repaired the MK-15 CIWS , a fully automated, fast-reaction weapon system. This required deep electrical, mechanical, and software diagnostic skills to isolate and repair system failures under pressure.
+                <ul>
+                    <li>*Skill Translation:* <strong>Complex System Diagnostics, Predictive Maintenance, Failure Analysis.</strong></li>
+                </ul>
+            </li>
+            <li><strong>Advanced Sensor Operations (SPQ-9B RADAR):</strong> Maintained the SPQ-9B  advanced tracking and detection radar, ensuring the system provided reliable, high-fidelity data to the Combat Information Center (CIC) for decision-making.
+                <ul>
+                    <li>*Skill Translation:* <strong>High-Frequency Sensor Calibration, Data Integrity, Signal Processing.</strong></li>
+                </ul>
+            </li>
+            <li><strong>Leadership & Technical Training:</strong> Achieved the rank of Fire Controlman First Class (FC1), a leadership role that involved training junior personnel (E-1 to E-5) on the operation, maintenance, and safety protocols for all assigned systems.
+                <ul>
+                    <li>*Skill Translation:* <strong>Cross-Functional Team Leadership, Technical Training & Documentation, Quality Assurance.</strong></li>
+                </ul>
+            </li>
+        </ul>
+
+        <h2 id="impact">III. Measurable Impact & Achievements</h2>
+        <p>My tenure was marked by direct, quantifiable contributions to operational readiness, validated by competitive awards:</p>
+        
+        <ul>
+            <li><strong>Operational Excellence:</strong> Earned **three Navy Achievement Medals (NAMs)** for superior performance, which recognized contributions such as exceptional technical expertise during critical underway periods, solving persistent maintenance issues, and leading successful inspections. This validates consistent, high-impact performance and leadership under scrutiny.</li>
+            <li><strong>Maintenance & Reliability:</strong> Contributed to a unit-wide operational readiness rate consistently **above the Fleet average.** Through optimization efforts, reduced Mean Time to Repair (MTTR) for critical systems by an estimated **15%** through proactive maintenance cycles and streamlined troubleshooting.</li>
+            <li><strong>Resource Management:</strong> Served as a subject matter expert (SME) on small arms and torpedo systems, managing maintenance schedules, inventory, and lifecycle requirements for high-cost, high-risk assets. This required expertise in **Resource Allocation, Inventory Control, Safety Compliance, and Risk Management.**</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&#169; 2025 Richard Gwyn</p>
+    </footer>
+
+</body>
+</html>
